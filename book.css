@@ -1,0 +1,22 @@
+.App {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+button {
+  background-color: lightblue;
+  border-radius: 10px;
+}
+input {
+  field-sizing: 350px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: aliceblue;
+  border-radius: 20px;
+}
+label {
+  text-align: left;
+  margin-left: 0px;
+}
+form {
+  background-color: lightcyan;
+}
